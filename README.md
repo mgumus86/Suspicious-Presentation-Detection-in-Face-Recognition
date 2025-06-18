@@ -52,7 +52,7 @@ Two major approaches:
 - `imagepro/`: Image storage
 - `requirements.txt`: Package dependencies
 
-### 🤝 Contributors
+## 🤝 Contributors
 
 ```markdown
 ## Contributors
@@ -61,7 +61,7 @@ Two major approaches:
 - Jacob Lee — Feature engineering & EDA  
 - Matthew Mitchell — ML pipelines & tuning  
 
-### Requirements
+## Requirements
 
 This project requires Python 3.8 to run the project notebooks. 
 

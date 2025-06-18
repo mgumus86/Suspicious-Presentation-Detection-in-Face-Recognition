@@ -1,0 +1,13 @@
+gcsfs
+google
+google-api-core
+google-auth
+google-auth-oauthlib
+google-cloud
+google-cloud-bigquery
+google-cloud-core
+google-resumable-media
+googleapis-common-protos
+matplotlib
+Pillow
+opencv-python

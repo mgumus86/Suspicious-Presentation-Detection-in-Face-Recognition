@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cda-gatech",
+  "private_key_id": "0f0f7b5092d04ab63861219254472e2f8d92b0b8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1+pNx1VWLyZjC\nOdooH5s1Q//Bv0P2JUFTMA5tLdLJZUQ+aA4Cm/FNl/3Tzwyr2/NftVlECLJMGyU1\ncd3L8fTqqveqg/nos19C32kIsPdp1letGGesPnT56deFRwUHGiH4s9yROo9TlLA2\n2Bm7RfB+rgZrch3GQwR1vgNXr8SsN4CaY2wqDuqL3+ZQ7Ajm7fz+ZtGzlG2QxOp7\nV+OUrqRiNzFF8u243rVlILfd8EgMuSJQng5X+bm2dMsNJEvMjwMar2xev2BtyH9/\nDcaOTBEY4ih+e3SsBwJzBT+lfYeeYfuSafw8y92BAzllDMF2p4cCv41HJH0EMJLr\noahNbFvTAgMBAAECggEAFEZ2rrxT+4RQFUpzJdJJAtkbLJ/d92r03ssKvcZZEbWg\nh2Ak43cyyPA8yHXCqyk78fdsxS7qMp7kTpKWYYEz8QDFzFqc+ad2idGwzFZEkqcI\n02aAh96Dk6P8A8OYafn9kU302Wd6uEISP2IPZ9/7KMTElAG9vde8rk5SkAQA4nuy\nE++tbEXggBSzdgJbi03jJJMaXxsN8snA3v9QXILBjlsy6QMdeywOZOaqN69CDqoj\nnColbEfj0eW97A4iRcHUhiuaQ/f6RKh9mbrTolWoO3N/8XayVyH/Q4FCfkPAYWbh\nZkSK37rN23D1025fwJtaX1toXUZzl5/mWZjFohEjkQKBgQD2evNaRKI0TgnVlB4x\n7T6szFeYRFz1uvmE1Zmd2O6gR8o5cok68OQdBTIvrUU8tJhlVXBh4FsUc117VB0Q\nYqmyFoOaDg+dmvUrbIja/z3yDCa2hgWs/2JVtbqngRZI/J0O+4O87DFn/VCzgMyv\nqkeBXor0uXGD09ASVS517iH8IwKBgQC9Ad+eA5PAwU2PG898VaMYyPibXcnsFj6j\ndedWjPhxN3sv5vmtUz2Rjp+USn2OvS44gNoeF6l8thiq5BLgwMyeZhshKXO8g41k\njeoSdqww/xp3bHG+SMyJEOzqNdHDOOcD1yvz5FUyEYsnPvXQAPADTXa77ZyBOUbM\ncH/bYJQEkQKBgGkHHyc507xh/ILL6MnxhCFxuWmix9HV6HkX46uFQrl9ncg47Az3\nlNxg2G/Eb5pcggu8CnVKesUOG6lvwCq5QAIo4c8FatYHr6zfRLm8xZKcZuqj1UtQ\nT4CiPXUe5nYXXn2B4zLfmnXrVTYIDjBUaL/Rn3iEhMBdw23sai3KWSTtAoGAIGm8\n1pVYdlrwGRW03Ga3RJ3afJJ1+WXLMi8bEC22wXu5RXq/4KiAy4CA/2ZS5/KrhYcb\nYMPADiIQUuYwEpkdviBWkLZSIccRrWfk92uglfp5qHdRfkdvxCXB61x1b5xHidIR\nuI60yZRWn9FdSGGQx5A2R341M7gF2zODybRjTfECgYEA9Lh57XcHe9diBfBEN3Rq\n7mrQ07dbFgCR3yxTS9aFI2nYiVqpxflduqih6T/PbGmIxFGcvVUJdF6jh9p68qnT\n2KPK7JMi/LTAhyiUHkkz5Yh4q49EPypcXkq4eXVqfd1Ty1FdkgMDpKznWrXcJQYU\nypvqNNtkC0Yr6YE0Y7Xe3x8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "project@cda-gatech.iam.gserviceaccount.com",
+  "client_id": "101627750796412002727",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/project%40cda-gatech.iam.gserviceaccount.com"
+}

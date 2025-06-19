@@ -52,15 +52,6 @@ Two major approaches:
 - `imagepro/`: Image storage
 - `requirements.txt`: Package dependencies
 
-## 🤝 Contributors
-
-```markdown
-## Contributors
-
-- Mehmet Gumus — Model development & CNN implementation  
-- Jacob Lee — Feature engineering & EDA  
-- Matthew Mitchell — ML pipelines & tuning  
-
 ## Requirements
 
 This project requires Python 3.8 to run the project notebooks. 
@@ -69,3 +60,14 @@ Specific python packages are also required and can be installed using the below 
 ```
 pip install -r requirements.txt
 ```
+
+## Contributors
+
+```markdown
+## Contributors
+
+- Mehmet Gumus — Model development & CNN implementation  
+- Jacob Lee — Feature engineering & EDA  
+- Matthew Mitchell — ML pipelines & tuning  
+
+
